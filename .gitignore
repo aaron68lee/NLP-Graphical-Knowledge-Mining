@@ -1,0 +1,11 @@
+# installation files
+/Mallet
+/examples
+/.ipynb_checkpoints
+
+# LLM files
+en_core_web_sm-3.5.0-py3-none-any.whl
+fr_core_news_md-3.5.0-py3-none-any.whl
+
+# Corpora
+/FRconquest_split
