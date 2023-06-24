@@ -9,6 +9,8 @@ fr_core_news_md-3.5.0-py3-none-any.whl
 
 # Corpora
 /datasets
+/English-Sample
+/FRconquest_split
 
 # Other Folders
 /nlp
