@@ -18,3 +18,4 @@ fr_core_news_md-3.5.0-py3-none-any.whl
 # misc
 .DS_Store
 config.sh
+cohere_key
