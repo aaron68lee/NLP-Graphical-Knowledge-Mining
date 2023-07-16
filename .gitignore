@@ -6,6 +6,7 @@
 # LLM files
 en_core_web_sm-3.5.0-py3-none-any.whl
 fr_core_news_md-3.5.0-py3-none-any.whl
+/Word2Vec_Models/GoogleNews-vectors-negative300.bin.gz
 
 # Corpora
 /datasets
