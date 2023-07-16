@@ -1,6 +1,5 @@
 # installation files
 /Mallet
-/examples
 /.ipynb_checkpoints
 
 # LLM files
@@ -17,6 +16,7 @@ fr_core_news_md-3.5.0-py3-none-any.whl
 /nlp
 /API Keys
 /__pycache__
+/Resources
 
 # misc
 .DS_Store
