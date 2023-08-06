@@ -1,0 +1,24 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "English Sample",
+      "tensorShape": [
+        1318, 
+        500
+      ],      
+      "tensorPath": "https://gist.githubusercontent.com/aaron68lee/e0dbe1f51a45e7cc5655369ef888436b/raw/362c8381170ccf37d144fec7f6641c597f4c8d4d/embeddings.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/aaron68lee/d0abffd6ecf21e1ff96c36daec21e334/raw/dc799f6082cb2d6808ca31f7eb3cd769dd423586/metadata.tsv",
+      "bookmarksPath": ""
+    },
+    {
+      "tensorName": "French Algerian Sample",
+      "tensorShape": [
+        1318, 
+        500
+      ],      
+      "tensorPath": "https://gist.githubusercontent.com/unglikteng/3d31526c9e090ff8123c4e7a1b07d2bb/raw/714a2ac37437982d64770d84cb6d922f2e3593c2/model_primaries_tensor.tsv",
+      "metadataPath": "https://gist.githubusercontent.com/unglikteng/3d31526c9e090ff8123c4e7a1b07d2bb/raw/714a2ac37437982d64770d84cb6d922f2e3593c2/model_primaries_metadata.tsv",
+      "bookmarksPath": ""
+    }
+  ]
+}
