@@ -24,3 +24,7 @@ fr_core_news_md-3.5.0-py3-none-any.whl
 config.sh
 cohere_key
 variables.pkl
+
+# stopwords
+fr-stop-oa.txt
+en-stop-oa.txt
