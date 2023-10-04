@@ -18,10 +18,10 @@ Above methods are flawed fundamentally, hence LDA method
 ## Research Results
 
 Part of Speech (POS) Tagged Sentence Fragment with Entity Relations
-![](./Gallery/Dependency_Graph.png)
+![](./Gallery/Dependency_Graph_1.png)
 
 POS-Labeled Document Excerpt
-![](./Gallery/Ner.png)
+![](./Gallery/NER.png)
 
 Document Topical Heatmap Distribution Across Sample Corpora
 ![](./Gallery/doc_heat.png)
