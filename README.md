@@ -33,5 +33,5 @@ This is the research report on findings and specific techniques used over the du
 [Research Report and Log](https://docs.google.com/document/d/e/2PACX-1vSIw1POZUwxTctdvXyO17dm-Ov9lk67xE5Xh1J1fbXHqhz4v9N4AKYAmsu8BQ8117aMsLtLaUUSMTHw/pub)
 
 Formal Research Paper:<br>
-[Methodologies for Integrated Graph-based Knowledge Extraction of Multilingual Large Scale Text Corpora](https://docs.google.com/document/d/1rMXLpq-jAv0JNntelbfRGY327EllKOwhn4sazzjlIoU/edit?usp=sharing)
+[NLP Methodologies for Integrated Graph-based Knowledge Extraction of Multilingual Large Scale Text Corpora](https://docs.google.com/document/d/1rMXLpq-jAv0JNntelbfRGY327EllKOwhn4sazzjlIoU/edit?usp=sharing)
 
