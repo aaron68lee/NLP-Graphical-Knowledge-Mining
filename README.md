@@ -1,4 +1,4 @@
-# NLP-Topic-Modeling-of-Corpora
+# NLP-Graphical-Knowledge-Mining of Corpora
 
 This is the research report on findings and specific techniques used over the duration of the project: <br>
 [Research Report and Log](https://docs.google.com/document/d/e/2PACX-1vSIw1POZUwxTctdvXyO17dm-Ov9lk67xE5Xh1J1fbXHqhz4v9N4AKYAmsu8BQ8117aMsLtLaUUSMTHw/pub)
